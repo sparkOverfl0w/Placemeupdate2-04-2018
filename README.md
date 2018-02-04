@@ -1,3 +1,3 @@
 # Placemeupdate2-04-2018
-pull the updates here
+push the updates here
 #under construction
